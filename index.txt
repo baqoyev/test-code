@@ -1,0 +1,2 @@
+git haqidagi ilk tushunchalar
+2 chi dars va git commit
